@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mas Gemini AI</string>
+    <string name="action_go">Go</string>
+    <string name="question_title">Kun Fayakun</string>
+    <string name="label_prompt">Your Question</string>
+    <string name="prompt_placeholder">Input your question here</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
